@@ -1,3 +1,4 @@
+//go:build testrunmain
 // +build testrunmain
 
 // This file allows us to run the entire program with test coverage enabled, useful for integration tests

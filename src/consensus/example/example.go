@@ -1,3 +1,4 @@
+//go:build ignore
 // +build ignore
 
 // 20160901 - Initial version by user johnstuartmill,
