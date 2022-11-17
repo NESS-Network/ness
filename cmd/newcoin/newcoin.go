@@ -13,9 +13,9 @@ import (
 
 	"github.com/urfave/cli"
 
-	"github.com/skycoin/skycoin/src/fiber"
-	"github.com/skycoin/skycoin/src/util/logging"
-	"github.com/skycoin/skycoin/src/util/useragent"
+	"github.com/ness-network/ness/src/fiber"
+	"github.com/ness-network/ness/src/util/logging"
+	"github.com/ness-network/ness/src/util/useragent"
 )
 
 const (
