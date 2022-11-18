@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
-# Runs skycoin in desktop client configuration
+# Runs privateness in desktop client configuration
 
 set -x
 
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-echo "skycoin binary dir:" "$DIR"
+echo "privateness binary dir:" "$DIR"
 pushd "$DIR" >/dev/null
 
 COMMIT=$(git rev-parse HEAD)
